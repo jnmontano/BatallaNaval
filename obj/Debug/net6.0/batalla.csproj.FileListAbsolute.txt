@@ -1,0 +1,15 @@
+C:\Users\Nelmon\OneDrive\Documentos\Juego batalla naval\batalla\bin\Debug\net6.0\batalla.exe
+C:\Users\Nelmon\OneDrive\Documentos\Juego batalla naval\batalla\bin\Debug\net6.0\batalla.deps.json
+C:\Users\Nelmon\OneDrive\Documentos\Juego batalla naval\batalla\bin\Debug\net6.0\batalla.runtimeconfig.json
+C:\Users\Nelmon\OneDrive\Documentos\Juego batalla naval\batalla\bin\Debug\net6.0\batalla.dll
+C:\Users\Nelmon\OneDrive\Documentos\Juego batalla naval\batalla\bin\Debug\net6.0\batalla.pdb
+C:\Users\Nelmon\OneDrive\Documentos\Juego batalla naval\batalla\obj\Debug\net6.0\batalla.csproj.AssemblyReference.cache
+C:\Users\Nelmon\OneDrive\Documentos\Juego batalla naval\batalla\obj\Debug\net6.0\batalla.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nelmon\OneDrive\Documentos\Juego batalla naval\batalla\obj\Debug\net6.0\batalla.AssemblyInfoInputs.cache
+C:\Users\Nelmon\OneDrive\Documentos\Juego batalla naval\batalla\obj\Debug\net6.0\batalla.AssemblyInfo.cs
+C:\Users\Nelmon\OneDrive\Documentos\Juego batalla naval\batalla\obj\Debug\net6.0\batalla.csproj.CoreCompileInputs.cache
+C:\Users\Nelmon\OneDrive\Documentos\Juego batalla naval\batalla\obj\Debug\net6.0\batalla.dll
+C:\Users\Nelmon\OneDrive\Documentos\Juego batalla naval\batalla\obj\Debug\net6.0\refint\batalla.dll
+C:\Users\Nelmon\OneDrive\Documentos\Juego batalla naval\batalla\obj\Debug\net6.0\batalla.pdb
+C:\Users\Nelmon\OneDrive\Documentos\Juego batalla naval\batalla\obj\Debug\net6.0\batalla.genruntimeconfig.cache
+C:\Users\Nelmon\OneDrive\Documentos\Juego batalla naval\batalla\obj\Debug\net6.0\ref\batalla.dll
